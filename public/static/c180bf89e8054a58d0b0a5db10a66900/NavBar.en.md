@@ -1,4 +1,0 @@
----
-brand: "Stoneage"
-menuText: "Menu "
----
